@@ -1,0 +1,25 @@
+.main-par {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+  }
+.main-h1 {
+    font-family: Tahoma, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(212, 104, 2);
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.507);
+} 
+body {
+  overflow: scroll;
+}
+.side_list {
+  text-align: right;
+  background-color: rgb(212, 104, 2);
+  max-width: 150px;
+  max-height: 1000px;
+}
+.top-10-games-title {
+  color: rgb(212, 104, 2);
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.507);
+  text-align: center;
+}
